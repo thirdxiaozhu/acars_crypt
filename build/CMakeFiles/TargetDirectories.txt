@@ -1,0 +1,4 @@
+/home/jiaxv/CLionProjects/acars_crypt/build/CMakeFiles/acarscrypto.dir
+/home/jiaxv/CLionProjects/acars_crypt/build/CMakeFiles/acarscrypt.dir
+/home/jiaxv/CLionProjects/acars_crypt/build/CMakeFiles/edit_cache.dir
+/home/jiaxv/CLionProjects/acars_crypt/build/CMakeFiles/rebuild_cache.dir

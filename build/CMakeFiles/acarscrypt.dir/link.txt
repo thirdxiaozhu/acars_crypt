@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libacarscrypt.so -o libacarscrypt.so CMakeFiles/acarscrypt.dir/Crypto.c.o  -lgmssl 
